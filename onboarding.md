@@ -86,10 +86,10 @@ In all cases, conference travel should be noted on the lab attendance calendar (
 
 ## General
 
-**Slack:** We use Slack for rapid communication within the lab.
-If you plan on sending an e-mail to someone within the lab, try a Slack message instead.
-This helps to keep communications in one place, and Natalie commits to respond to slacks (not necessarily immediately, but the same guarantee is not made for e-mail).
-There are many channels on our lab's slack; however, it is recommended that newcomers join the following channels: `#general`, `#lab-meetings`, `#random`, `#wins`.
+**Discord:** We use Discord for rapid communication within the lab.
+If you plan on sending an e-mail to someone within the lab, try a Discord message instead.
+This helps to keep communications in one place, and Natalie commits to respond to Discord (not necessarily immediately, but the same guarantee is not made for e-mail).
+There are many channels on our lab's Discord; however, it is recommended that newcomers join the following channels: `#general`, `#lab-meetings`, `#random`, `#wins`.
 
 **Social media:** Lab members are encouraged to communicate through public social media.
 If a lab member chooses to do so on an account that notes an affiliation with the lab, the lab member is expected to follow our code of conduct.
@@ -109,7 +109,7 @@ If you have concerns at any point, set up a meeting with Natalie to discuss thes
 
 + GitHub (NDavidsonLab)
 + Outook (this is the CU account; you should be part of the "NDavidson lab" group)
-+ Slack (NDavidson Lab, ndavidsonlab.slack.com)
++ Discord (NDavidson Lab Server; you should see "GORG" as the server name)
 
 ## Meetings
 
