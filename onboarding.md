@@ -38,7 +38,7 @@ Trainees in the lab will often receive opportunities to present their work at sc
 These presentations reflect on the entire lab.
 Oral presentations on projects must be presented to the research lab during a `braintrust` meeting, and lab members are expected to address feedback that is provided.
 Once a project has been presented once and feedback incorporated, additional presentations are optional in advance of meetings.
-Poster presentations should be shared in the `#general` slack channel at least a week before printing.
+Poster presentations should be shared in the `#general` Discord channel at least a week before printing.
 
 **Code of conduct:** All lab members and visitors are expected to agree with this code of conduct.
 We will enforce this code.
@@ -120,11 +120,11 @@ Our team's scrum process ("scrum" is a framework typically used in software deve
 3. A *daily virtual github projects check-in*.
 
 **Weekly kick-off meeting:** This is a quick (~5 minutes) virtual lab meeting where individuals will lay out their weekly goals on Zoom/Teams.
-If you cannot join the kick-off meeting, you are expected to send a short message to the `#lab-meetings` channel (in Slack) with your update before the kick-off meeting.
+If you cannot join the kick-off meeting, you are expected to send a short message to the `#davidsonlab-weekly-scrum` channel (in Discord) with your update before the kick-off meeting.
 
 **Weekly demo day meeting:** This is a quick (no more than 10 or 15 minutes) virtual lab meeting where team members show off an accomplishment from the week in 3 minutes or fewer.
 This could be a new figure, a section of a paper, some code that they are particularly happy with, or something that we learned from a paper, poster, or research presentation.
-To share figures or paper sections for the demo day meeting use the link is pinned in the `#lab-meetings` channel on Slack and is not intended to be shared outside the lab.
+To share figures or paper sections for the demo day meeting use the link is pinned in the `#davidsonlab-weekly-scrum` channel on Discord and is not intended to be shared outside the lab.
 If you are not already listed in the slides, feel free to add a slide with your name. Alternatively, screen sharing is possible for code demos or interactive weekly accomplishments.
 
 **Daily virtual github projects check-in:**
@@ -165,7 +165,7 @@ To prepare for these meetings students and staff are required to create an activ
 - self-reflection. What do you regard as your strengths and as areas where you need improvement?
 
 The report should be in the form of a plain text file, markdown file, or PDF and the file should be called lastname-reflection-yearmonth (e.g. Davidson-reflection-202308.txt).
-Submit the report in a direct message to Natalie via slack.
+Submit the report in a direct message to Natalie via Discord.
 <!-- How does this work at CU? - During the summer, graduate students are required to complete CU's individual development plan (IDP). -->
 <!-- Post-docs must complete an IDP prior to their annual contract renewal. -->
 <!-- This document covers more in-depth content than the regular triannual self reflection; therefore, the IDP can be used as a replacement annual report for that cycle. -->
